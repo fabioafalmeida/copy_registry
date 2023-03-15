@@ -1,0 +1,12 @@
+{
+  "origin": "registryA",
+  "originUser": "user",
+  "originPass": "pass",
+  "destination": "registryB",
+  "destinationUser": "user",
+  "destinationPass": "pass",
+  "destinationMainProject": "",
+  "projects": [
+    "project"
+  ]
+}
